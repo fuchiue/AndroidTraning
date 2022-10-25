@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("初めての変更");
+        System.out.println("二回目の変更");
     }
 }
