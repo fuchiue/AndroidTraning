@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AndroidTraining</string>
+    <string name="sub_title">サブ画面タイトル</string>
+    <string name="hint">名前を入力してください</string>
+    <string name="drink">ドリンク</string>
+    <string name="food">フード</string>
+    <string name="man_rb">男</string>
+    <string name="woman_rb">女</string>
+    <string name="namae">名前</string>
+    <string name="kakunin">確認</string>
+    <string name="send">送信</string>
+    <string name="clear">クリア</string>
+    <string name="profile">プロフィール</string>
+    <string name="password">パスワードは数値で入力してください</string>
+    <string name="nenndai">年代</string>
+    <string name="seibetu">性別</string>
+    <string name="zene10">10代</string>
+    <string name="zene20">20代</string>
+    <string name="zene30">30代</string>
+    <string name="addData">データを追加</string>
+    <string name="getData">データを入力してください</string>
+    <string name="kansou">感想を入力してください</string>
+    <string name="hozon">保存</string>
+    <string name="cancel">キャンセル</string>
+    <string name="delete">リセット</string>
+    <string name="kensaku">検索</string>
+    <string name="camerastart">カメラ起動</string>
+</resources>
